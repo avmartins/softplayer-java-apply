@@ -1,0 +1,22 @@
+2019-07-06 17:44:02 ERROR EmailInvalidoException:22 - Email Invalido : 'id-null'
+2019-07-06 17:44:02 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 17:48:51 ERROR DataInvalidaException:22 - Data Invalido : 'id-2019-07-01'
+2019-07-06 17:48:51 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 17:54:24 ERROR DataInvalidaException:22 - Data Invalido : 'id-2019-05-15'
+2019-07-06 17:54:24 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:01:42 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:01:42 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:03:55 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:03:57 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:04:33 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:04:33 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:05:24 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:05:24 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:08:00 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:08:00 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:09:19 ERROR CPFInvalidoException:22 - Cpf Invalido : 'id-963.531.127-34'
+2019-07-06 18:09:19 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:36:18 ERROR EmailInvalidoException:22 - Email Invalido : 'id-null'
+2019-07-06 18:36:18 INFO  PessoaController:65 - Erro ao incluir a pessoa
+2019-07-06 18:38:15 ERROR EmailInvalidoException:22 - Email Invalido : 'id-null'
+2019-07-06 18:38:15 INFO  PessoaController:65 - Erro ao incluir a pessoa

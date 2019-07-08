@@ -1,0 +1,68 @@
+<html
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<div data-th-fragment="sidebar2">
+	<div class="sidebar" data-color=orange>
+		<!--
+          Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
+      -->
+		<div class="logo">
+			<a href="/dashboard" class="simple-text logo-normal"> Cadastro de Pessoas </a>
+		</div>
+
+		<div class="sidebar-wrapper" id="sidebar-wrapper">
+			<ul class="nav">
+				<li class="active "><a href="/dashboard"> <i
+						class="now-ui-icons design_app"></i>
+						<p>Dashboard</p></a>
+				</li>
+				<li><a data-toggle="collapse" href="#ce"
+					aria-expanded="false"> <i class="now-ui-icons users_circle-08"></i>
+
+						<p>
+							Usuários <b class="caret"></b>
+						</p>
+				</a>
+
+					<div class="collapse" id="ce">
+						<ul class="nav">
+
+							<li><a href="/users/new"> <i
+									class="now-ui-icons users_circle-08"></i>
+									<p>Novo Usuario</p>
+							</a></li>
+							<li><a href="/users/list"> <i
+									class="now-ui-icons users_circle-08"></i>
+									<p>Listar Usuarios</p>
+							</a></li>
+
+
+						</ul>
+					</div></li>
+					
+					<li><a data-toggle="collapse" href="#ce2"
+					aria-expanded="false"> <i class="now-ui-icons users_circle-08"></i>
+						<p>							
+							Pessoas <b class="caret"></b>
+						</p>
+					</a>
+					<div class="collapse" id="ce2">
+						<ul class="nav">
+
+							<li><a href="/pessoas/new"> <i
+									class="now-ui-icons users_circle-08"></i>
+									<p>Nova Pessoa</p>
+							</a></li>
+							<li><a href="/pessoas/list"> <i
+									class="now-ui-icons users_circle-08"></i>
+									<p>Listar Pessoas</p>
+							</a></li>
+
+
+						</ul>
+					</div>
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
